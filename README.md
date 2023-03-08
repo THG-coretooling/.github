@@ -1,2 +1,2 @@
-# Core Tooling Platform 
-Change visibility on the right-side to `view as member` to see org links.
+# Public README repository for org
+This repository is intended to be public. ONLY this one.
