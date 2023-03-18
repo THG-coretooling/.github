@@ -1,5 +1,5 @@
-# Core Tooling Platform 👋
+# THG - Core Tooling Platform
 
-**This org is SSO enabled.** If you are planning on working with CTP repositories please make sure you [are a member of the org](https://thg.okta.com/) first.
-
-Once a member, change visibility on the right-side panel to `view as member` to see org links and more information.
+If you are seeing this you are likely not a member, to join:
+1. Raise a ticket in SDP to be added to the organisation, [the org will then be visible in okta](https://thg.okta.com/) first.
+2. Once a member, change visibility on the right-side panel to `view as member` to view private links and information.
